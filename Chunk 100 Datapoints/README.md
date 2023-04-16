@@ -1,2 +1,2 @@
-Mostly Accurate Chunk 100 Datapoints from the Localization code
-Random Chunk 100 Datapoints from the Dataset
+- Mostly Accurate Chunk 100 Datapoints from the Localization code
+- Random Chunk 100 Datapoints from the Dataset
