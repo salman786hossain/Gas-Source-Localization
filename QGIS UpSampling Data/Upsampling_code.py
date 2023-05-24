@@ -87,7 +87,7 @@ if __name__ == '__main__':
     st = syn()
     # print(st)
     syn_df = st.syn_time(df1, df2)
-    syn_df.to_csv('ABCD.csv')
+    syn_df.to_csv('QGIS_upsampling_100m_day1.csv')
 
 
     # print(syn_df)
