@@ -6,7 +6,7 @@ The folder "GPM_GA Localization Code", which contains python code, implements a 
 
 - **Additional Downsampling Data/:** The data downsampling could also pose a significant limitation for this project. Downsampling involves reducing the number of data points in the datasets, resulting in the least amount of data available for evaluating localization. Therefore, the combined data was down-sampled, and the minimum amount of data required for source localization was determined.
 
-- **Chunk 100 Datapoints/:** The folder contains 100 points as limited data assumed for localization. The testing chunk data is fetched from Day 1, 100 square meters dataset and there are two types of chunk criteria has been determind. One is just default 100 random data points from the datasets. Another one fetched from the selected model that assumes mosly accurate 100 data points with the highest concentration value of CO2. 
+- **Chunk 100 Datapoints/:** The folder contains 100 points as limited data assumed for localization. The testing chunk data is fetched from the datasets and there are two types of chunk criteria has been determind. One is just default 100 random data points from the datasets. Another one fetched from the selected model that assumes mosly accurate 100 data points with the highest concentration value of CO2. 
 
 - **KML Files/:** The 'Keyhole Markup Language' folder contains the geo location from the test field.
 
